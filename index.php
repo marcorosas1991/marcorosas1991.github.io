@@ -35,7 +35,7 @@
         <div class="indexProjectDiv"><a href="docs/Resume2015.pdf" target="_blank"><h3>Resumé<h3></a></div>
         <h2>Live sample Projects</h2>
         <div class="indexProjectDiv"><a href="museoamparo/index.php" target="_blank">Museo Amparo</a></div>
-        <div class="indexProjectDiv"><a href="theroomie/index.php" target="_blank">The Roomie</a></div>
+        <div class="indexProjectDiv"><a href="theroomie/index.html" target="_blank">The Roomie</a></div>
       </aside>
     </div>
 
