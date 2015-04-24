@@ -3,7 +3,8 @@
   <head>
     <title>Marco Rosas</title>
     <link rel="shortcut icon" href="images/logo.png">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
+    <meta charset="UTF-8" />
   </head>
 
   <body>
