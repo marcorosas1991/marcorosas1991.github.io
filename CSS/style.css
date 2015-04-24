@@ -1,0 +1,109 @@
+@font-face {
+  font-family: Scriptina;
+  src: url('scriptina.ttf');
+  }
+
+  @font-face {
+    font-family: Alegreya;
+    src: url('fonts/AlegreyaSansSC.ttf');
+    }
+
+    @font-face {
+      font-family: ABeeZee;
+      src: url('fonts/abeezze/ABeeZee-Regular.ttf');
+      }
+
+
+body {
+  background: rgb(225,221,218);
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  font-family: "Helvetica", "Sans Serif";
+}
+
+header {
+  width: 100%;
+  height: 40px;
+  border-radius: 1.0em;
+  /*background-color: rgba(255,255,255, 0.3);*/
+  margin-bottom: 1em;
+}
+
+.wrapper {
+  border-radius: 1.0em;
+  width: 100%;
+  height: 500px;
+  background-color: rgba(255,255,255, 0.3);
+}
+
+section.indexMain {
+  width:70%;
+  float: left;
+}
+
+aside.indexProjectList {
+  width:30%;
+  background-color: rgba(255,255,255, 0.3);
+  float: left;
+}
+
+/*divs*/
+div.indexPhoto {
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+
+div.indexBio
+{
+  clear: both;
+  padding: 10px 20px;
+}
+
+div.indexProjectDiv {
+  margin-bottom: 20px;
+}
+
+.indexPhoto img {
+  border: 7px white solid;
+}
+/*text*/
+h1.indexName {
+  font-family: "Alegreya";
+  font-size: 3em;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.centerText {
+  text-align: center;
+}
+
+.point8em {
+  font-size: 0.8em;
+}
+
+/*images*/
+div.indexPhoto img {
+  width: 80%;
+}
+
+/*centering*/
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*a*/
+.indexProjectList a {
+  color: #46b98a;
+  text-decoration: none;
+}
+
+.indexProjectList a:hover {
+  color: #B94675;
+}
